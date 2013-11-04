@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:be8d1046fd7ce8ca23f3b80c71fa5c39:1/1$ -->
+<TextureAtlas imagePath="common.png">
+    <SubTexture name="Card_Border" x="470" y="2" width="74" height="74"/>
+    <SubTexture name="Close_Button_1" x="507" y="117" width="35" height="35"/>
+    <SubTexture name="Close_Button_2" x="470" y="117" width="35" height="35"/>
+    <SubTexture name="Enter_Button_1" x="229" y="439" width="225" height="60" frameX="0" frameY="-3" frameWidth="225" frameHeight="64"/>
+    <SubTexture name="Enter_Button_2" x="2" y="408" width="225" height="60" frameX="0" frameY="-3" frameWidth="225" frameHeight="64"/>
+    <SubTexture name="Item_Border" x="438" y="358" width="76" height="71"/>
+    <SubTexture name="Other_Border" x="358" y="358" width="78" height="79"/>
+    <SubTexture name="Prompt_Background" x="2" y="2" width="466" height="354" frameX="-10" frameY="0" frameWidth="480" frameHeight="358"/>
+    <SubTexture name="Star_1" x="508" y="78" width="36" height="37"/>
+    <SubTexture name="Star_2" x="470" y="78" width="36" height="37"/>
+    <SubTexture name="TextInput_Background" x="2" y="358" width="354" height="48"/>
+</TextureAtlas>

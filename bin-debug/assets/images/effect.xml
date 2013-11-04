@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:640b97df564beeae39a58247b0a873b8:1/1$ -->
+<TextureAtlas imagePath="effect.png">
+    <SubTexture name="Affected" x="910" y="198" width="170" height="139"/>
+    <SubTexture name="Attack" x="1082" y="198" width="158" height="81" frameX="-11" frameY="-33" frameWidth="170" frameHeight="139"/>
+    <SubTexture name="Blood" x="910" y="339" width="128" height="16"/>
+    <SubTexture name="Flutter_1" x="456" y="198" width="452" height="194" frameX="-17" frameY="-6" frameWidth="480" frameHeight="206"/>
+    <SubTexture name="Flutter_2" x="910" y="2" width="452" height="194" frameX="-17" frameY="-6" frameWidth="480" frameHeight="206"/>
+    <SubTexture name="Flutter_3" x="456" y="2" width="452" height="194" frameX="-17" frameY="-6" frameWidth="480" frameHeight="206"/>
+    <SubTexture name="Flutter_4" x="2" y="198" width="452" height="194" frameX="-17" frameY="-6" frameWidth="480" frameHeight="206"/>
+    <SubTexture name="Flutter_5" x="2" y="2" width="452" height="194" frameX="-17" frameY="-6" frameWidth="480" frameHeight="206"/>
+</TextureAtlas>

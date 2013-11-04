@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:969fe99b29ec40ec48d8669d34f8e426:1/1$ -->
+<TextureAtlas imagePath="home.png">
+    <SubTexture name="Home_Athletic_Button_1" x="373" y="898" width="94" height="88"/>
+    <SubTexture name="Home_Athletic_Button_2" x="277" y="898" width="94" height="88"/>
+    <SubTexture name="Home_Background" x="2" y="2" width="480" height="800"/>
+    <SubTexture name="Home_Exp_Bar_Foreground" x="2" y="1084" width="95" height="16"/>
+    <SubTexture name="Home_Friend_Button_1" x="2" y="991" width="90" height="91"/>
+    <SubTexture name="Home_Friend_Button_2" x="2" y="898" width="90" height="91"/>
+    <SubTexture name="Home_Home_Button_1" x="368" y="1079" width="89" height="88"/>
+    <SubTexture name="Home_Home_Button_2" x="277" y="1079" width="89" height="88"/>
+    <SubTexture name="Home_Mixture_Button_1" x="94" y="991" width="89" height="91"/>
+    <SubTexture name="Home_Mixture_Button_2" x="94" y="898" width="89" height="91"/>
+    <SubTexture name="Home_Recharge_Button_1" x="185" y="989" width="90" height="89"/>
+    <SubTexture name="Home_Recharge_Button_2" x="185" y="898" width="90" height="89"/>
+    <SubTexture name="Home_SMS_Button_1" x="368" y="988" width="89" height="89"/>
+    <SubTexture name="Home_SMS_Button_2" x="277" y="988" width="89" height="89"/>
+    <SubTexture name="Home_User_Info" x="2" y="804" width="430" height="92"/>
+</TextureAtlas>

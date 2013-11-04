@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ed36a0ed647efb5cf5196633cd5cbab5:1/1$ -->
+<TextureAtlas imagePath="athletic.png">
+    <SubTexture name="Athletic_Athletic_Button_1" x="148" y="693" width="74" height="67"/>
+    <SubTexture name="Athletic_Athletic_Button_2" x="72" y="693" width="74" height="67"/>
+    <SubTexture name="Athletic_Background" x="2" y="2" width="480" height="596" frameX="0" frameY="-85" frameWidth="480" frameHeight="800"/>
+    <SubTexture name="Athletic_Item_Background" x="2" y="600" width="412" height="91"/>
+    <SubTexture name="Athletic_Item_Border" x="2" y="693" width="68" height="68"/>
+</TextureAtlas>

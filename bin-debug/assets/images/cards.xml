@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:808dd5a3043727e1d58a75abc32decc1:1/1$ -->
+<TextureAtlas imagePath="cards.png">
+    <SubTexture name="qs_6000" x="1502" y="1127" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6001" x="1127" y="1502" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6002" x="1127" y="1127" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6003" x="1502" y="752" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6004" x="1127" y="752" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6007" x="752" y="1502" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6012" x="752" y="1127" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6013" x="752" y="752" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6014" x="1502" y="377" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6016" x="1127" y="377" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6023" x="752" y="377" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6024" x="377" y="1502" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6029" x="377" y="1127" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6033" x="377" y="752" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6037" x="377" y="377" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6038" x="1502" y="2" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6042" x="1127" y="2" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6044" x="752" y="2" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6045" x="377" y="2" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6046" x="2" y="1502" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6048" x="2" y="1127" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6049" x="2" y="752" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6050" x="2" y="377" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_6056" x="2" y="2" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+</TextureAtlas>

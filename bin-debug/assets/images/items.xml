@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f40029c95389f4c660c5655a7787084d:1/1$ -->
+<TextureAtlas imagePath="items.png">
+    <SubTexture name="item_1" x="1370" y="0" width="54" height="52" frameX="0" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_10" x="482" y="0" width="52" height="54" frameX="-2" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_100006" x="324" y="0" width="54" height="54"/>
+    <SubTexture name="item_100007" x="1744" y="0" width="44" height="44" frameX="-7" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_100008" x="1700" y="0" width="44" height="44" frameX="-7" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_100011" x="1656" y="0" width="44" height="44" frameX="-7" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_100015" x="1612" y="0" width="44" height="44" frameX="-7" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_100016" x="1568" y="0" width="44" height="44" frameX="-7" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_100017" x="430" y="0" width="52" height="54" frameX="-1" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_100019" x="270" y="0" width="54" height="54"/>
+    <SubTexture name="item_100020" x="634" y="0" width="50" height="54" frameX="-4" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_100022" x="216" y="0" width="54" height="54"/>
+    <SubTexture name="item_100024" x="1316" y="0" width="54" height="52" frameX="0" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_100025" x="162" y="0" width="54" height="54"/>
+    <SubTexture name="item_100029" x="108" y="0" width="54" height="54"/>
+    <SubTexture name="item_100030" x="1262" y="0" width="54" height="52" frameX="0" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_100031" x="1080" y="0" width="38" height="54" frameX="-11" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_11" x="54" y="0" width="54" height="54"/>
+    <SubTexture name="item_12" x="1424" y="0" width="48" height="48" frameX="-6" frameY="-6" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_13" x="732" y="0" width="48" height="54" frameX="-6" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_14" x="584" y="0" width="50" height="54" frameX="-4" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_15" x="534" y="0" width="50" height="54" frameX="-4" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_16" x="684" y="0" width="48" height="54" frameX="-6" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_17" x="870" y="0" width="44" height="54" frameX="-7" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_18" x="998" y="0" width="42" height="54" frameX="-8" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_19" x="956" y="0" width="42" height="54" frameX="-8" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_2" x="0" y="0" width="54" height="54"/>
+    <SubTexture name="item_20" x="914" y="0" width="42" height="54" frameX="-8" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_21" x="1516" y="0" width="52" height="46" frameX="-2" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_22" x="378" y="0" width="52" height="54" frameX="-2" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_3" x="1208" y="0" width="54" height="52" frameX="0" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_4" x="1154" y="0" width="54" height="52" frameX="0" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_5" x="826" y="0" width="44" height="54" frameX="-8" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_6" x="780" y="0" width="46" height="54" frameX="-8" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_7" x="1040" y="0" width="40" height="54" frameX="-8" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_8" x="1118" y="0" width="36" height="54" frameX="-10" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="item_9" x="1472" y="0" width="44" height="48" frameX="-7" frameY="-6" frameWidth="54" frameHeight="54"/>
+</TextureAtlas>

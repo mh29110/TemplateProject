@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2228694bc4265b7dc765c1142f86d614:1/1$ -->
+<TextureAtlas imagePath="login.png">
+    <SubTexture name="Login_Background" x="2" y="2" width="480" height="800"/>
+    <SubTexture name="Login_Login_Background" x="2" y="804" width="420" height="136"/>
+    <SubTexture name="Login_Login_Button_1" x="184" y="993" width="180" height="49"/>
+    <SubTexture name="Login_Login_Button_2" x="2" y="993" width="180" height="49"/>
+    <SubTexture name="Login_Logo_9miao_1" x="428" y="960" width="60" height="76"/>
+    <SubTexture name="Login_Logo_9miao_2" x="366" y="960" width="60" height="76"/>
+    <SubTexture name="Login_Logo_Firefly_1" x="424" y="882" width="60" height="76"/>
+    <SubTexture name="Login_Logo_Firefly_2" x="424" y="804" width="60" height="76"/>
+    <SubTexture name="Login_Start_Button_1" x="184" y="942" width="180" height="49"/>
+    <SubTexture name="Login_Start_Button_2" x="2" y="942" width="180" height="49"/>
+</TextureAtlas>

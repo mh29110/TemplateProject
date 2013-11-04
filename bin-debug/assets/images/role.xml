@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1cf0b5e402ceb2bb62935d64ede3253d:1/1$ -->
+<TextureAtlas imagePath="role.png">
+    <SubTexture name="qs_0001" x="752" y="2" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_0002" x="377" y="2" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+    <SubTexture name="qs_0003" x="2" y="2" width="373" height="373" frameX="-1" frameY="-1" frameWidth="375" frameHeight="375"/>
+</TextureAtlas>

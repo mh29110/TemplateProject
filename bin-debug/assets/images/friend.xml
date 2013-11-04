@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bc61efc567bce31f9a0bec619562970e:1/1$ -->
+<TextureAtlas imagePath="friend.png">
+    <SubTexture name="Friend_Background" x="966" y="2" width="480" height="554" frameX="0" frameY="-113" frameWidth="480" frameHeight="800"/>
+    <SubTexture name="Friend_Hire_Background" x="484" y="2" width="480" height="596" frameX="0" frameY="-85" frameWidth="480" frameHeight="800"/>
+    <SubTexture name="Friend_Hire_Button_1" x="1046" y="675" width="313" height="69"/>
+    <SubTexture name="Friend_Hire_Button_2" x="731" y="675" width="313" height="69"/>
+    <SubTexture name="Friend_Hire_Hire_Button_1" x="827" y="600" width="94" height="39"/>
+    <SubTexture name="Friend_Hire_Hire_Button_2" x="731" y="600" width="94" height="39"/>
+    <SubTexture name="Friend_Hire_Item_Background" x="2" y="600" width="412" height="91"/>
+    <SubTexture name="Friend_Record_Background" x="2" y="2" width="480" height="596" frameX="0" frameY="-85" frameWidth="480" frameHeight="800"/>
+    <SubTexture name="Friend_Record_Button_1" x="416" y="671" width="313" height="69"/>
+    <SubTexture name="Friend_Record_Button_2" x="416" y="600" width="313" height="69"/>
+    <SubTexture name="Friend_Record_Item_Background" x="966" y="558" width="412" height="115"/>
+</TextureAtlas>

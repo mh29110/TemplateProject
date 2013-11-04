@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f509f5b30527b6ee9cd54ea973a79468:1/1$ -->
+<TextureAtlas imagePath="mixture.png">
+    <SubTexture name="Mixture_Background" x="2" y="2" width="414" height="528" frameX="-31" frameY="-133" frameWidth="480" frameHeight="800"/>
+    <SubTexture name="Mixture_Mixture_Button_1" x="105" y="532" width="101" height="93"/>
+    <SubTexture name="Mixture_Mixture_Button_2" x="2" y="532" width="101" height="93"/>
+    <SubTexture name="Mixture_Plus" x="208" y="532" width="19" height="19" frameX="-1" frameY="-1" frameWidth="21" frameHeight="21"/>
+</TextureAtlas>

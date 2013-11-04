@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7c315909781e88976e5ced442947d268:1/1$ -->
+<TextureAtlas imagePath="map.png">
+    <SubTexture name="Map_Flutter" x="2" y="2" width="480" height="800"/>
+    <SubTexture name="Map_Home" x="2" y="804" width="480" height="441"/>
+    <SubTexture name="Map_Point_1" x="2" y="1247" width="179" height="120"/>
+    <SubTexture name="Map_Point_2" x="183" y="1247" width="179" height="118" frameX="0" frameY="0" frameWidth="179" frameHeight="120"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0fcd544e55bd29b3c3b63b3ad8408b4e:1/1$ -->
+<TextureAtlas imagePath="sms.png">
+    <SubTexture name="SMS_Background" x="2" y="2" width="480" height="596" frameX="0" frameY="-85" frameWidth="480" frameHeight="800"/>
+    <SubTexture name="SMS_Edit_Background" x="2" y="956" width="466" height="354" frameX="-10" frameY="0" frameWidth="480" frameHeight="358"/>
+    <SubTexture name="SMS_Item_Background" x="2" y="1312" width="404" height="83"/>
+    <SubTexture name="SMS_Read" x="408" y="1379" width="64" height="65"/>
+    <SubTexture name="SMS_Return_Button_1" x="251" y="1447" width="109" height="48"/>
+    <SubTexture name="SMS_Return_Button_2" x="362" y="1446" width="109" height="48"/>
+    <SubTexture name="SMS_Send_Button_1" x="251" y="1397" width="109" height="48"/>
+    <SubTexture name="SMS_Send_Button_2" x="362" y="1496" width="107" height="48" frameX="0" frameY="0" frameWidth="109" frameHeight="48"/>
+    <SubTexture name="SMS_Unread" x="408" y="1312" width="64" height="65"/>
+    <SubTexture name="SMS_View_Background" x="2" y="600" width="466" height="354" frameX="-10" frameY="0" frameWidth="480" frameHeight="358"/>
+    <SubTexture name="SMS_Write_Button_1" x="2" y="1455" width="247" height="56" frameX="0" frameY="0" frameWidth="249" frameHeight="58"/>
+    <SubTexture name="SMS_Write_Button_2" x="2" y="1397" width="247" height="56" frameX="0" frameY="0" frameWidth="249" frameHeight="58"/>
+</TextureAtlas>

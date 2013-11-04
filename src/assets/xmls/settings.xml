@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<version>V1.4</version>
+	<locale>zh_CN</locale>
+	<uris>
+		<uri id="9miao">http://www.9miao.com</uri>
+		<uri id="firefly">http://firefly.9miao.com</uri>
+	</uris>
+	<!-- servers节点为了以后多服务器选择预留 -->
+	<servers>
+		<!-- server节点说明：host服务器地址；port服务器端口号；sport服务器沙箱安全端口号，默认843，可省略。 -->
+		<server id="default_server" name="默认服务器" host="183.60.243.195" port="31009" sport="843" />
+		<!-- <server id="default_server" name="默认服务器" host="114.252.83.121" port="11009" sport="843" /> -->
+	</servers>
+</settings>

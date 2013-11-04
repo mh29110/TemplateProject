@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5448a1f54e1d80d2c8971b1c3ddde872:1/1$ -->
+<TextureAtlas imagePath="loading.png">
+    <SubTexture name="Loading_1" x="1160" y="232" width="232" height="232"/>
+    <SubTexture name="Loading_10" x="1160" y="0" width="232" height="232"/>
+    <SubTexture name="Loading_11" x="928" y="232" width="232" height="232"/>
+    <SubTexture name="Loading_12" x="928" y="0" width="232" height="232"/>
+    <SubTexture name="Loading_2" x="696" y="232" width="232" height="232"/>
+    <SubTexture name="Loading_3" x="696" y="0" width="232" height="232"/>
+    <SubTexture name="Loading_4" x="464" y="232" width="232" height="232"/>
+    <SubTexture name="Loading_5" x="464" y="0" width="232" height="232"/>
+    <SubTexture name="Loading_6" x="232" y="232" width="232" height="232"/>
+    <SubTexture name="Loading_7" x="232" y="0" width="232" height="232"/>
+    <SubTexture name="Loading_8" x="0" y="232" width="232" height="232"/>
+    <SubTexture name="Loading_9" x="0" y="0" width="232" height="232"/>
+</TextureAtlas>
